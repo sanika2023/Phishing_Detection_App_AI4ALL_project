@@ -4,6 +4,9 @@ Briefly describe the purpose/result(s) of your project, the skills you applied, 
 
 *The purpose of our project is to help users detect whether or not an email is phishing. As the world of technology grows, it is integral to reduce cybercrime. We used many skills in this project including the cleaning, preprocessing, and combining of dataframes, visualization of data using python, application of Naive Bayes Algorithm, and deployment using Streamlit. The AI4ALL ignite program has helped us to establish a good foundation of AI and machine learning skills.*
 
+Deployed app link: https://phishingdetectionappai4allproject.streamlit.app/
+
+
 ## Video Walkthrough
 
 Here's a walkthrough of the deployed website:
